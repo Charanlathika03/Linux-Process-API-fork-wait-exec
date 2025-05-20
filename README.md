@@ -74,7 +74,7 @@ Test the C Program for the desired output.
 
 
 ##OUTPUT
-
+C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
 
 
